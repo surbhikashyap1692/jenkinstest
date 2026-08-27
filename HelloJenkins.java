@@ -6,7 +6,7 @@ public class HelloJenkins {
         System.out.println("     Jenkins Java Build Lab     ");
         System.out.println("================================");
 
-        System.out.println("Hello Engineering Students!");
+        System.out.println("Welcome to ICEM jenkins lab!");
         System.out.println("Java program executed successfully.");
         System.out.println("Build completed using Jenkins.");
 
